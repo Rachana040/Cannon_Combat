@@ -1,3 +1,3 @@
-CANNON COMBAT
+#CANNON COMBAT
 
 In this game,User is supposed to save himself from the bombs released by a stationary cannon after regular intervals of time.User can make a move to his left by pressing on 'a' key and to his right by pressing on 'd'.User can leave the game at any point of time by pressing the 'Esc' key.When the user is shot by a bomb,game comes to an end.A text "BOOM!!GAME OVER" and corresponding score gets printed on the screen.If the user manages to reach the end point,a text "YOU WIN" with corresponding score is printed on the screen.score gets printed based on the current position of the cannon.
